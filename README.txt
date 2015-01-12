@@ -18,3 +18,5 @@ If installing manually then copy the GameData folder from the ZIP to your KSP di
 
 Once installed it should appear thus
 ...GameData/ContractPacks/SCANSat
+
+
