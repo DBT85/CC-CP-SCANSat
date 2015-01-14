@@ -8,7 +8,7 @@ All missions are currently unlocked, meaning that you can get them at any time. 
 In future:
 The first Kerbin mission requires that the first SCANSat part be unlocked
 The second Kerbin mission requires that the second SCANSat part be unlocked. Optional mission to de-orbit mission 1.
-The Mun mission requires that some LoRes data has been gathered from KErbin
+The Mun mission requires that some LoRes data has been gathered from Kerbin
 The Minmus mission requires that more LoRes data is gathered from Kerbin and a little from Mun
 The Eve Mission requires that some LoRes data is gathered from Mun and Minmus. It has some optional parts too.
 The Duna mission requires that more LoRes data is gathered from Mun and Minmus. It has some optional parts too.
@@ -21,4 +21,4 @@ If installing manually then copy the GameData folder from the ZIP to your KSP di
 Once installed it should appear thus
 ...GameData/ContractPacks/SCANSat
 
-
+This Contract Pack supports KSP AVC, the automatic version checking mod.
