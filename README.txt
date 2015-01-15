@@ -1,21 +1,22 @@
 # CC-CP-SCANSat
 This is my Contract Pack for Kerbal Space Program which adds in SCANSat contracts using the Contract Configurator mod.
 
-It's currently got 10 missions for Kerbin, Mun, Minmus, Duna, Ike, Eve, Gilly, Moho, Dres and Eeloo included.
+It's currently got 11 missions for Kerbin, Mun, Minmus, Duna, Ike, Eve, Gilly, Moho, Dres, Jool's Moons and Eeloo included.
 
 All missions are currently unlocked, meaning that you can get them at any time. This is for my testing purposes. 
 
 In future:
-The first Kerbin mission requires that the first SCANSat part be unlocked
-The Mun mission requires that some LoRes data has been gathered from Kerbin
-The Minmus mission requires that more LoRes data is gathered from Kerbin and a little from Mun
-The second Kerbin mission requires that the second SCANSat part be unlocked. Optional mission to de-orbit mission 1.
-The Eve Mission requires that some LoRes data is gathered from Mun and Minmus. It has some optional parts too.
-The Mun & Minmus mission requires some Biome data has been collected on Kerbin. It has some optional parts too.
-The Duna mission requires that more LoRes data is gathered from Mun and Minmus. It has some optional parts too.
-The Dres mission requires that 50% of Mun and Minmus have Biome data. 
-The Moho mission requires that 65% of Mun and Minmus have Biome data. Comprises 2 separate ships.
-The Eeloo mission requires that 95% of Mun and Minmus have Biome data. 
+1) The first Kerbin mission requires that the first SCANSat part be unlocked
+2) The Mun mission requires that 60% LoRes data has been gathered from Kerbin
+3) The Minmus mission requires that 65% LoRes data is gathered from Kerbin and 15% from Mun
+4) The second Kerbin mission requires that the second SCANSat part be unlocked. Optional mission to de-orbit mission 1.
+5) The Eve Mission requires that 75% LoRes data is gathered from Mun and Minmus. It has some optional parts too.
+6) The Mun & Minmus mission requires that 50% Biome data has been collected on Kerbin. It has some optional parts too.
+7) The Duna mission requires that 90% LoRes data is gathered from Mun and Minmus. It has some optional parts too.
+8) The Dres mission requires that 50% of Mun and Minmus have Biome data. 
+9) The Moho mission requires that 65% of Mun and Minmus have Biome data. Comprises 2 separate ships.
+10) The Joolian mission requires that 90% of Mun and Minmus have Biome data. Comprises 5 seperate ships. No orbit parameters.
+11) The Eeloo mission requires that 95% of Mun and Minmus have Biome data. 
 
 If using CKAN then it'll just go where it needs to.
 
@@ -25,3 +26,25 @@ Once installed it should appear thus
 ...GameData/ContractPacks/CC-CP-SCANSat
 
 This Contract Pack supports KSP AVC, the automatic version checking mod.
+
+The missions are named with the following
+
+RADAR Altimetry main
+Named for the Scottish physicist who predicted the existence of electromagnetic waves.
+Maxwell
+
+RADAR Altimetry child probe
+Named for the German physicist who discovered that electromagnetic waves passed through some objects, while reflecting off others
+Hertz
+
+Multispectral 
+Named for the GeoEye satellite surveying Earth
+GeoEye
+
+Joolian mission
+Named for the first probe to orbit Jupiter and study its moons as well as the man who discovered Jupiters 4 largest moons
+Galileo
+
+Eeloo mission
+Named for the first probe to be sent to Pluto, due to arrive in 2015
+New Horizons
