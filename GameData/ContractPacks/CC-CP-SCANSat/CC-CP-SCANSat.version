@@ -5,7 +5,7 @@
      "GITHUB":{
          "USERNAME":"DBT85",
          "REPOSITORY":"CC-CP-SCANSat",
-         "ALLOW_PRE_RELEASE":false,
+         "ALLOW_PRE_RELEASE":"false",
      },
      "VERSION":{
          "MAJOR":0,
