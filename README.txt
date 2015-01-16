@@ -3,12 +3,14 @@ This is my Contract Pack for Kerbal Space Program which adds in SCANSat contract
 
 It's currently got 11 missions for Kerbin, Mun, Minmus, Duna, Ike, Eve, Gilly, Moho, Dres, Jool's Moons and Eeloo included.
 
-All missions are currently unlocked, meaning that you can get them at any time. This is for my testing purposes. 
+Some missions are currently unlocked, meaning that you can get them at any time. This is for my testing purposes. 
 
-In future:
+Now:
 1) The first Kerbin mission requires that the first SCANSat part be unlocked
 2) The Mun mission requires that 60% LoRes data has been gathered from Kerbin
 3) The Minmus mission requires that 65% LoRes data is gathered from Kerbin and 15% from Mun
+
+In future:
 4) The second Kerbin mission requires that the second SCANSat part be unlocked. Optional mission to de-orbit mission 1.
 5) The Eve Mission requires that 75% LoRes data is gathered from Mun and Minmus. It has some optional parts too.
 6) The Mun & Minmus mission requires that 50% Biome data has been collected on Kerbin. It has some optional parts too.
