@@ -9,12 +9,12 @@ Now:
 1) The first Kerbin mission requires that the first SCANSat part be unlocked
 2) The Mun mission requires that 60% LoRes data has been gathered from Kerbin
 3) The Minmus mission requires that 65% LoRes data is gathered from Kerbin and 15% from Mun
+4) The Eve Mission requires that 75% LoRes data is gathered from Mun and Minmus. It has an optional part too.
+5) The Duna mission requires that 90% LoRes data is gathered from Mun and Minmus. It has an optional part too.
 
 In future:
-4) The second Kerbin mission requires that the second SCANSat part be unlocked. Optional mission to de-orbit mission 1.
-5) The Eve Mission requires that 75% LoRes data is gathered from Mun and Minmus. It has some optional parts too.
-6) The Mun & Minmus mission requires that 50% Biome data has been collected on Kerbin. It has some optional parts too.
-7) The Duna mission requires that 90% LoRes data is gathered from Mun and Minmus. It has some optional parts too.
+6) The second Kerbin mission requires that the second SCANSat part be unlocked. Optional mission to de-orbit mission 1.
+7) The Mun & Minmus mission requires that 50% Biome data has been collected on Kerbin. Optional parts to de-orbit mission 2 and 3.
 8) The Dres mission requires that 50% of Mun and Minmus have Biome data. 
 9) The Moho mission requires that 65% of Mun and Minmus have Biome data. Comprises 2 separate ships.
 10) The Joolian mission requires that 90% of Mun and Minmus have Biome data. Comprises 5 seperate ships. No orbit parameters.
