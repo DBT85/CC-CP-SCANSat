@@ -1,7 +1,7 @@
 # CC-CP-SCANSat
 This is my Contract Pack for Kerbal Space Program which adds in SCANSat contracts using the Contract Configurator mod.
 
-It's currently got 11 missions for Kerbin, Mun, Minmus, Duna, Ike, Eve, Gilly, Moho, Dres, Jool's Moons and Eeloo included.
+It's currently got 13 missions for Kerbin, Mun, Minmus, Duna, Ike, Eve, Gilly, Moho, Dres, Jool's Moons and Eeloo included.
 
 Some missions are currently unlocked, meaning that you can get them at any time. This is for my testing purposes. 
 
@@ -11,10 +11,14 @@ Now:
 3) The Minmus mission requires that 65% LoRes data is gathered from Kerbin and 15% from Mun
 4) The Eve Mission requires that 75% LoRes data is gathered from Mun and Minmus. It has an optional part too.
 5) The Duna mission requires that 90% LoRes data is gathered from Mun and Minmus. It has an optional part too.
-
-In future:
 6) The second Kerbin mission requires that the second SCANSat part be unlocked. Optional mission to de-orbit mission 1.
 7) The Mun & Minmus mission requires that 50% Biome data has been collected on Kerbin. Optional parts to de-orbit mission 2 and 3.
+
+Working
+7a) Second Eve contract requires that 60% of Mun and Minmus have Biome data. Mission come in 2 flavours dependant on the current outcome of mission 4. Awaiting AcceptedContract feature to be added to CC.
+7b) Second Duna contract requires that 75% of Mun and Minmus have Biome data. Mission come in 2 flavours dependant on the current outcome of mission 5. Awaiting AcceptedContract feature to be added to CC.
+
+In future: - These need modifying based on 7a and 7b above.
 8) The Dres mission requires that 50% of Mun and Minmus have Biome data. 
 9) The Moho mission requires that 65% of Mun and Minmus have Biome data. Comprises 2 separate ships.
 10) The Joolian mission requires that 90% of Mun and Minmus have Biome data. Comprises 5 seperate ships. No orbit parameters.
