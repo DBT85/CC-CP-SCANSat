@@ -1,9 +1,9 @@
 # CC-CP-SCANSat
 This is my Contract Pack for Kerbal Space Program which adds in SCANSat contracts using the Contract Configurator mod.
 
-It's currently got 13 missions for Kerbin, Mun, Minmus, Duna, Ike, Eve, Gilly, Moho, Dres, Jool's Moons and Eeloo included.
+It's currently got 11 missions for Kerbin, Mun, Minmus, Duna, Ike, Eve, Gilly, Moho, Dres, Jool's Moons and Eeloo included.
 
-Some missions are currently unlocked, meaning that you can get them at any time. This is for my testing purposes. 
+All missions are now locked and balanced apart from the Jool mission.
 
 Now:
 1) The first Kerbin mission requires that the first SCANSat part be unlocked
@@ -13,16 +13,18 @@ Now:
 5) The Duna mission requires that 90% LoRes data is gathered from Mun and Minmus. It has an optional part too.
 6) The second Kerbin mission requires that the second SCANSat part be unlocked. Optional mission to de-orbit mission 1.
 7) The Mun & Minmus mission requires that 50% Biome data has been collected on Kerbin. Optional parts to de-orbit mission 2 and 3.
+8) The Dres mission requires that 50% of Mun and Minmus have Biome data. 
+9) The Moho mission requires that 65% of Mun and Minmus have Biome data.
+11) The Eeloo mission requires that 95% of Mun and Minmus have Biome data. 
 
 Working
 7a) Second Eve contract requires that 60% of Mun and Minmus have Biome data. Mission come in 2 flavours dependant on the current outcome of mission 4. Awaiting AcceptedContract feature to be added to CC.
 7b) Second Duna contract requires that 75% of Mun and Minmus have Biome data. Mission come in 2 flavours dependant on the current outcome of mission 5. Awaiting AcceptedContract feature to be added to CC.
 
-In future: - These need modifying based on 7a and 7b above.
-8) The Dres mission requires that 50% of Mun and Minmus have Biome data. 
-9) The Moho mission requires that 65% of Mun and Minmus have Biome data. Comprises 2 separate ships.
+In future:
+
 10) The Joolian mission requires that 90% of Mun and Minmus have Biome data. Comprises 5 seperate ships. No orbit parameters.
-11) The Eeloo mission requires that 95% of Mun and Minmus have Biome data. 
+
 
 If using CKAN then it'll just go where it needs to.
 
@@ -47,8 +49,12 @@ Multispectral
 Named for the GeoEye satellite surveying Earth
 GeoEye
 
+RADAR Altimetry & Multispectral
+Named for the German astronomer Johann Daniel Titius who first noticed that there was a gap between Mars and Jupiter where there should not be one, according to the titius-bode law.
+Titius
+
 Joolian mission
-Named for the first probe to orbit Jupiter and study its moons as well as the man who discovered Jupiters 4 largest moons
+Named for the first probe to orbit Jupiter and study its moons as well as the man who discovered Jupiter's 4 largest moons
 Galileo
 
 Eeloo mission
