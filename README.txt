@@ -3,7 +3,7 @@ This is my Contract Pack for Kerbal Space Program which adds in SCANSat contract
 
 It's currently got 11 missions for Kerbin, Mun, Minmus, Duna, Ike, Eve, Gilly, Moho, Dres, Jool's Moons and Eeloo included.
 
-All missions are now locked and balanced apart from the Jool mission.
+All missions are now locked and balanced! Hurrah!
 
 Now:
 1) The first Kerbin mission requires that the first SCANSat part be unlocked
@@ -15,15 +15,13 @@ Now:
 7) The Mun & Minmus mission requires that 50% Biome data has been collected on Kerbin. Optional parts to de-orbit mission 2 and 3.
 8) The Dres mission requires that 50% of Mun and Minmus have Biome data. 
 9) The Moho mission requires that 65% of Mun and Minmus have Biome data.
+10) The Joolian mission requires that 90% of Mun and Minmus have Biome data. Comprises 3 ships and 2 optionals.
 11) The Eeloo mission requires that 95% of Mun and Minmus have Biome data. 
 
-Working
+Working on:
 7a) Second Eve contract requires that 60% of Mun and Minmus have Biome data. Mission come in 2 flavours dependant on the current outcome of mission 4. Awaiting AcceptedContract feature to be added to CC.
 7b) Second Duna contract requires that 75% of Mun and Minmus have Biome data. Mission come in 2 flavours dependant on the current outcome of mission 5. Awaiting AcceptedContract feature to be added to CC.
 
-In future:
-
-10) The Joolian mission requires that 90% of Mun and Minmus have Biome data. Comprises 5 seperate ships. No orbit parameters.
 
 
 If using CKAN then it'll just go where it needs to.
