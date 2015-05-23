@@ -3,7 +3,10 @@ This is my Contract Pack for Kerbal Space Program which adds in SCANSat contract
 
 It's currently got 11 missions for Kerbin, Mun, Minmus, Duna, Ike, Eve, Gilly, Moho, Dres, Jool's Moons and Eeloo included.
 
-All missions are now locked and balanced! Hurrah!
+All missions are now locked and balanced ish! Hurrah!
+
+Version log
+0.5.1 - Removed the old duration counter and updated ckan files for KSP 1.02
 
 Now:
 1) The first Kerbin mission requires that the first SCANSat part be unlocked
@@ -19,8 +22,8 @@ Now:
 11) The Eeloo mission requires that 95% of Mun and Minmus have Biome data. 
 
 Working on:
-7a) Second Eve contract requires that 60% of Mun and Minmus have Biome data. Mission come in 2 flavours dependant on the current outcome of mission 4. Awaiting AcceptedContract feature to be added to CC.
-7b) Second Duna contract requires that 75% of Mun and Minmus have Biome data. Mission come in 2 flavours dependant on the current outcome of mission 5. Awaiting AcceptedContract feature to be added to CC.
+7a) Second Eve contract requires that 60% of Mun and Minmus have Biome data. Mission come in 2 flavours dependant on the current outcome of mission 4.
+7b) Second Duna contract requires that 75% of Mun and Minmus have Biome data. Mission come in 2 flavours dependant on the current outcome of mission 5.
 
 
 
