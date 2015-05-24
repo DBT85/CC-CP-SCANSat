@@ -6,6 +6,7 @@ It's currently got 11 missions for Kerbin, Mun, Minmus, Duna, Ike, Eve, Gilly, M
 All missions are now locked and balanced ish! Hurrah!
 
 Version log
+0.5.2 - Fixed Tylo Pe values.
 0.5.1 - Removed the old duration counter and updated ckan files for KSP 1.02
 
 Now:
