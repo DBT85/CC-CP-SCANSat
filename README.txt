@@ -5,6 +5,8 @@ It's currently got 11 missions for Kerbin, Mun, Minmus, Duna, Ike, Eve, Gilly, M
 
 All missions are now locked and balanced ish! Hurrah!
 
+This contract pack DISABLES the built in contracts that come with SCANSAT, save for the ORE contracts. If you wish to enable them, open the disable.cfg and add // to the one line in the file.
+
 Version log
 0.5.2 - Fixed Tylo Pe values.
 0.5.1 - Removed the old duration counter and updated ckan files for KSP 1.02
