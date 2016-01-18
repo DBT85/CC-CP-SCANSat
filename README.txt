@@ -59,4 +59,4 @@ Galileo
 
 Eeloo mission
 Named for the first probe to be sent to Pluto, which successfully arrived in 2015
-New Horizons
+New Horizons 
